@@ -8,12 +8,10 @@ body{
 .g{
   margin: auto;
     padding: inherit;
-    width: 620px;
+    width: 950px;
     height: 1000px;
     background-color: whitesmoke;
-    position: absolute;
-    right: 0px;
-    top: 0px;
+    align-self: center;
     
     
     
