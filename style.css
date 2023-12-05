@@ -1,0 +1,23 @@
+body{
+ background-color:teal;
+    margin: auto;
+    padding: 0px;
+    font-family: sans-serif;
+    font-style: oblique;
+}
+.g{
+  margin: auto;
+    padding: inherit;
+    width: 620px;
+    height: 1000px;
+    background-color: whitesmoke;
+    position: absolute;
+    right: 0px;
+    top: 0px;
+    
+    
+    
+    
+    
+    
+}
